@@ -18,8 +18,7 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-![The Final Output](Screenshot 2025-09-17 123142.png)
-
+![The Final Output](Schelp.png)
 ## Reflection
 
 1. Describe your project.
