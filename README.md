@@ -18,18 +18,20 @@ This project was created on Code.org's JavaLab platform using the built-in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+![The Final Output](Screenshot 2025-09-17 123142.png)
 
 ## Reflection
 
 1. Describe your project.
 
-   - My project insantiates 2 painters to pain schlep's youtube logo. 
+   - My project insantiates 2 painters to pain schlep's logo. 
 
 2. What are two things about your project that you are proud of?
 
-   - Write your response here...
+   - 1: Im proud that I was able to make a method that made a painter paint a whole background.
+
+   - 2: Im also proud that I was also able to make the whole project by myself. Shows growth and improvement.
 
 3. Describe something you would improve or do differently if you had an opportunity to change something about your project.
 
-   - Write your response here...
+   - Maybe I could've used for loops more often, I was to lazy to include it everywhere code is repeated. Also I could maybe have used a bigger grid to make it more detailed.
